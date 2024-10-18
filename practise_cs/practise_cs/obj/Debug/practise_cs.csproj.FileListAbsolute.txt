@@ -1,0 +1,15 @@
+C:\да\Программы\C#\practise_cs\practise_cs\bin\Debug\practise_cs.exe.config
+C:\да\Программы\C#\practise_cs\practise_cs\bin\Debug\practise_cs.exe
+C:\да\Программы\C#\practise_cs\practise_cs\bin\Debug\practise_cs.pdb
+C:\да\Программы\C#\practise_cs\practise_cs\obj\Debug\practise_cs.csproj.AssemblyReference.cache
+C:\да\Программы\C#\practise_cs\practise_cs\obj\Debug\practise_cs.csproj.SuggestedBindingRedirects.cache
+C:\да\Программы\C#\practise_cs\practise_cs\obj\Debug\practise_cs.csproj.CoreCompileInputs.cache
+C:\да\Программы\C#\practise_cs\practise_cs\obj\Debug\practise_cs.exe
+C:\да\Программы\C#\practise_cs\practise_cs\obj\Debug\practise_cs.pdb
+C:\Users\user\Desktop\practise_cs\practise_cs\bin\Debug\practise_cs.exe.config
+C:\Users\user\Desktop\practise_cs\practise_cs\bin\Debug\practise_cs.exe
+C:\Users\user\Desktop\practise_cs\practise_cs\bin\Debug\practise_cs.pdb
+C:\Users\user\Desktop\practise_cs\practise_cs\obj\Debug\practise_cs.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\practise_cs\practise_cs\obj\Debug\practise_cs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\practise_cs\practise_cs\obj\Debug\practise_cs.exe
+C:\Users\user\Desktop\practise_cs\practise_cs\obj\Debug\practise_cs.pdb
